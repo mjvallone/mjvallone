@@ -1,6 +1,7 @@
 ### Hi there 👋
 Software engineer & partner at [Fiqus](http://fiqus.coop/)  
-![Fiqus logo](https://fiqus.coop/wp-content/themes/fiqustheme/img/fiquscontacto.png)
+
+<!-- ![Fiqus logo](https://fiqus.coop/wp-content/themes/fiqustheme/img/fiquscontacto.png) -->
 
 +10 years of programming experience - I've worked as full stack developer last years.
 
