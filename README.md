@@ -2,15 +2,11 @@
 Software engineer & partner at [Fiqus](http://fiqus.coop/)  
 ![Fiqus logo](https://fiqus.coop/wp-content/themes/fiqustheme/img/fiquscontacto.png)
 
-+10 years of programming experience
-
-I've worked as full stack developer last years.
++10 years of programming experience - I've worked as full stack developer last years.
 
 I've coached and sponsored team mates in projects
 
-Infinitely curious and always learning. 
-
-Currently learning DSE & ML 🌱
+Infinitely curious and always learning  --> Currently learning DSE & ML 🌱
 
 
 <!--
