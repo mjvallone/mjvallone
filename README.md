@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning DSE & ML
+I'm a software engineer & partner at [Fiqus](http://fiqus.coop/)
+
+🌱 Currently learning DSE & ML
+
 
 <!--
 **mjvallone/mjvallone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
