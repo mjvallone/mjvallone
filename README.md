@@ -3,11 +3,13 @@ Software engineer & partner at [Fiqus](http://fiqus.coop/)
 
 <!-- ![Fiqus logo](https://fiqus.coop/wp-content/themes/fiqustheme/img/fiquscontacto.png) -->
 
-+10 years of programming experience
++15 years of programming experience
 
-I've coached and sponsored team mates in projects
+I've coached and sponsored team mates in projects.
 
-Infinitely curious and always learning  --> Currently learning DSE & ML 🌱
+I enjoy "spreading" what I know. [Introductory given talk about DSE & ML](https://youtu.be/nRu1ecY_R-k)
+
+Infinitely curious and always learning  --> Currently DSE & ML 🌱 
 
 
 <!--
