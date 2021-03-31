@@ -7,10 +7,17 @@ Software engineer & partner at [Fiqus](http://fiqus.coop/)
 
 I've coached and sponsored team mates in projects.
 
-I enjoy "spreading" what I know. [Introductory given talk about DSE & ML](https://youtu.be/nRu1ecY_R-k)
+I enjoy "spreading" what I know: 
+
+[Introductory given talk about DSE & ML (Spanish)](https://youtu.be/nRu1ecY_R-k)
 
 Infinitely curious and always learning  --> Currently DSE & ML 🌱 
 
+
+
+Now working on [IA2](https://github.com/instituciones-abiertas)
+
+[IA2 Show & Tell (English)](https://www.youtube.com/watch?v=U70h97dpGJo&t=1s&ab_channel=FACTTIC)
 
 <!--
 **mjvallone/mjvallone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
