@@ -14,9 +14,9 @@ I enjoy "spreading" what I know:
 [IA2 Show & Tell (English)](https://www.youtube.com/watch?v=U70h97dpGJo&t=1s&ab_channel=FACTTIC)
 
 
-Infinitely curious and always learning  --> Currently DSE & ML 🌱 
+Infinitely curious and always learning --> Currently searching for projects related to Data, DSE & ML 
 
-
+I enjoy being part of great teams with a continuous improvement mindset.
 
 <!--Now working on [Anonimización de texto libre](https://github.com/instituciones-abiertas/anonimizacion-texto-libre)
 based on [IA2](https://github.com/instituciones-abiertas)
