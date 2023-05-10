@@ -12,7 +12,7 @@ What cares the most are goals, tools can be learned ⚡
 
 I enjoy "spreading" what I know by coaching team mates, giving talks or whatever that allows it: 
 
-- [Introductory given talk about DSE & ML (Spanish)](https://youtu.be/nRu1ecY_R-k)
+- [Introductory talk about DSE & ML (Spanish)](https://youtu.be/nRu1ecY_R-k)
 
 - [IA2 Show & Tell (English)](https://www.youtube.com/watch?v=U70h97dpGJo&t=1s&ab_channel=FACTTIC)
 
