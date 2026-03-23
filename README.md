@@ -1,41 +1,60 @@
 ### Hi there 👋
-Backend / data engineer & partner at [Farox](http://farox.coop/)  
 
-<!-- ![Fiqus logo](https://fiqus.coop/wp-content/themes/fiqustheme/img/fiquscontacto.png) -->
+I'm Martin Vallone — backend & data engineer, and partner at [Farox](https://farox.coop)
 
-a "whole life" programming experience
+I build systems that combine **data, strategy, and human behavior**.  
+From GraphQL platforms to decision-making tools and AI-powered workflows.
 
-I enjoy being part of great teams with a continuous improvement mindset.
-
-What cares the most are goals, tools can be learned ⚡ 
+🧠 "Generalist by curiosity, engineer by craft"
 
 
-Infinitely curious and always learning 🤓
+---
 
-Latest projects:
-- [Light guider](https://github.com/farox-coop/goal-tracker): 
-- [Missing captcha](https://github.com/farox-coop/missing-captcha): 
+### ⚙️ What I work with
 
+- Backend: PostgreSQL, GraphQL (PostGraphile), Node.js
+- Data modeling & complex relational systems
+- Event-driven systems & background workers
+- AI integrations (LLMs, embeddings, retrieval)
 
-📫 mjvallone@gmail.com
+---
 
+### 🚀 Projects
 
-[![mjvallone's github stats](https://github-readme-stats.vercel.app/api?username=mjvallone&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/mjvallone/github-readme-stats)
+#### 🔦 [Light Guider](https://github.com/farox-coop/goal-tracker)
+A goal tracking platform designed to help individuals and teams **turn intention into action**.
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjvallone&layout=compact&theme=dracula&langs_count=10)](https://github.com/mjvallone/github-readme-stats)-->
+- Structured goals, actions, and progress tracking
+- Designed for clarity, focus, and continuous improvement
+- Inspired by the idea of a *lighthouse guiding decisions*
 
+---
 
+#### 🧩 [Missing Captcha](https://github.com/farox-coop/missing-captcha)
+A social-impact experiment: turning CAPTCHAs into a tool for **finding missing people**.
+
+- Uses attention as a resource for public good
+- Displays real missing persons during verification flows
+- Bridges everyday digital interactions with real-world impact
+
+---
+
+### 🌱 Mindset
+
+- I care more about **goals than tools**
+- I enjoy working in **high-trust, improvement-driven teams**
+- Always exploring the intersection of **tech, society, and systems**
+
+---
+
+### 📫 Contact
+
+- Email: mjvallone@gmail.com
+- Farox: https://farox.coop
+
+---
+
+<!-- Optional: keep it minimal or remove -->
 <!--
-**mjvallone/mjvallone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjvallone&show_icons=true&theme=dracula)
 -->
